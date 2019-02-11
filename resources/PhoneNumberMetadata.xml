@@ -21633,7 +21633,7 @@
           8[2-8]\d{7}
         </nationalNumberPattern>
       </fixedLine>
-      <!-- 950 added based on info received from Smart. 96[5-7] added based on user report. -->
+      <!-- 950 added based on info received from Smart. 96[5-7] added based on user report. 96[1] added -->
       <mobile>
         <possibleLengths national="10"/>
         <exampleNumber>9051234567</exampleNumber>
@@ -21647,7 +21647,7 @@
               3[02-9]|
               4[235-9]|
               5[056]|
-              6[5-7]|
+              6[15-7]|
               7[3-79]|
               89|
               9[4-9]
